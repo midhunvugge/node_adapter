@@ -1,4 +1,4 @@
-// Update this section with your ServiceNow credentials
+
 const options = {
   url: 'https://dev70966.service-now.com/',
   username: 'admin',
